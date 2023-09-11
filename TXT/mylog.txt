@@ -8,3 +8,13 @@ ZCZC W00 120 L30 Udacity: study
 ZCZC W00 120 L32 Youtube: Watching OS related topics
 ZCZC W00 180 L73 Gaming
 ZCZC W00 600 L70 Studying Other Courses
+ZCZC W01 60 L03 Github related
+ZCZC W01 420 L01 SCELE related
+ZCZC W01 120 L08 OS Chat related with friends
+ZCZC W01 180 L11 Assignment #01
+ZCZC W01 120 L05 Studying for OS's Quiz
+ZCZC W01 60 L31 Installing VirtualBox, Linux, and Debian 
+ZCZC W01 60 L32 Youtube: Watchin OS related topics
+ZCZC W01 180 L73 Gaming
+ZCZC W01 60 Workout and Exercise
+ZCZC W01 600 Studying Other Courses
