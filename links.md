@@ -9,5 +9,7 @@ permalink: LINKS/
    Intro ke pelajaran tentang OS yang memuat penjelasan-penjelasan singkat tentang Operating System
 3. [Download Oracle VM for Windows](https://youtu.be/nvdnQX9UkMY?si=9oH07sRNLGdy1J3)<br>
    Video penjelasan tentang step-by-step menginstall Oracle VM untuk windows
+4. [Simple Explanation about CyberSecurity](https://youtu.be/inWWhr5tnEA?si=Jx6xLDRsVi_-y8ez)<br>
+   Video simpel tentang cybersecurity
 <br>
 <hr>
