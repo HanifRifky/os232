@@ -11,5 +11,7 @@ permalink: LINKS/
    Video penjelasan tentang step-by-step menginstall Oracle VM untuk windows
 4. [Simple Explanation about CyberSecurity](https://youtu.be/inWWhr5tnEA?si=Jx6xLDRsVi_-y8ez)<br>
    Video simpel tentang cybersecurity
+5. [Simple Explanation about memory management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+   Penjelasan singkat tentang manajemen memeori dalam hal sistem operasi
 <br>
 <hr>
