@@ -13,5 +13,7 @@ permalink: LINKS/
    Video simpel tentang cybersecurity
 5. [Simple Explanation about memory management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
    Penjelasan singkat tentang manajemen memeori dalam hal sistem operasi
+6. [SCP Command Explanation](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)<br>
+   Penjelasan tentang beberapa perintah SCP di linux
 <br>
 <hr>
