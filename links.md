@@ -15,5 +15,7 @@ permalink: LINKS/
    Penjelasan singkat tentang manajemen memeori dalam hal sistem operasi
 6. [SCP Command Explanation](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)<br>
    Penjelasan tentang beberapa perintah SCP di linux
+7. [armored option for GnuPG explanation](https://unix.stackexchange.com/questions/623375/what-is-the-armored-option-for-in-gnupg)<br>
+   Penjelasan tentang armored GnuPG
 <br>
 <hr>
