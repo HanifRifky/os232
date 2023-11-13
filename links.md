@@ -17,5 +17,7 @@ permalink: LINKS/
    Penjelasan tentang beberapa perintah SCP di linux
 7. [armored option for GnuPG explanation](https://unix.stackexchange.com/questions/623375/what-is-the-armored-option-for-in-gnupg)<br>
    Penjelasan tentang armored GnuPG
+8. [Process Synchronizations in OS](https://www.prepbytes.com/blog/operating-system/process-synchronization-in-os-definition-working-and-example/#:~:text=Process%20synchronization%20is%20the%20task,and%20resource%20efficiency%20are%20maintained.)<br>
+   Penjelasan tentang proses sinkronisasi pada operating sistem
 <br>
 <hr>

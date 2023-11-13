@@ -1,6 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W07 60 L03 Github related
+ZCZC W07 120 L01 Scele related
+ZCZC W07 120 L17 Assignment #07
+ZCZC W07 90 L73 Gaming
+ZCZC W07 120 L88 Workout and Exercise
+ZCZC W07 600 L70 Studying Other Courses
+ZCZC W07 60 L05 Studying for OS's Quiz
+ZCZC W07 60 L33 Learning OS related topics
 ZCZC W06 60 L03 Github related
 ZCZC W06 150 L01 Scele related
 ZCZC W06 180 L16 Assignment #06
