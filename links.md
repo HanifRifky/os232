@@ -19,5 +19,7 @@ permalink: LINKS/
    Penjelasan tentang armored GnuPG
 8. [Process Synchronizations in OS](https://www.prepbytes.com/blog/operating-system/process-synchronization-in-os-definition-working-and-example/#:~:text=Process%20synchronization%20is%20the%20task,and%20resource%20efficiency%20are%20maintained.)<br>
    Penjelasan tentang proses sinkronisasi pada operating sistem
+9. [Linux From Scratch](https://www.youtube.com/watch?v=uggsnHSELos)
+   Penjelasan tutorial linx from scratch dengan video
 <br>
 <hr>
